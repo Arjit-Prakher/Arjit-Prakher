@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently a 3rd year BCA student of BIT MESRA, Ranchi, extension Lalpur.<br>
+Graduated from BIT Mesra Ranchi
+Currently a Final year MCA student at Arka Jain University, Jharkhand.<br>
 
 
 ## 🌐 Socials:
