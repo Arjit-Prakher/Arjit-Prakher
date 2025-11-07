@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduated from BIT Mesra Ranchi
+Graduated from BIT Mesra Ranchi. <br>
 Currently a Final year MCA student at Arka Jain University, Jharkhand.<br>
 
 
